@@ -34,14 +34,11 @@ Now,run the server to see your todo app
 <pre>$ python manage.py runserver</pre>
 
 
-Screenshot  
-------------
 
-  ![alt text](https://github.com/itsvinayak/todo/blob/master/screenshot.png)
   
   
   <br/>
   <br/>
   <br/>
-  <b> made by vinayak 🧟</b>
+
   
